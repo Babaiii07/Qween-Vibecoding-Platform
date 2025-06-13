@@ -34,8 +34,6 @@ export const defaultHTML = `<!DOCTYPE html>
     <h1>
       <span>I'm ready to work,</span><br />
       Ask me anything.
-    </h1>
-    <img src="https://parthib-qwensite.hf.space/arrow.svg" class="arrow" />
     <script></script>
   </body>
 </html>
